@@ -2,7 +2,7 @@ gas-marked
 ===============
 
 
-This project is a GAS (Google Apps Script) version of the `markedjs/marked` library.
+This project is a GAS (Google Apps Script) version of the [markedjs/marked](https://github.com/markedjs/marked) library.
 
 ## How to use
 
