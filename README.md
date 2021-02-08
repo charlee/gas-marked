@@ -29,6 +29,6 @@ console.log(html);
 The deployment versions and the library versions are mapped as below.
 
 | Gooogle Apps Script Library deployment verison | marked version |
-|------------------------------------------------+----------------|
+|------------------------------------------------|----------------|
 |                                              2 |   marked@1.2.9 |
 
